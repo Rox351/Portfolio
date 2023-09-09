@@ -1,12 +1,12 @@
 # Portifolio
 Meu Portifolio, Responsivo. Clique no link abaixo e veja como ficou.
-![JavaScript para web: crie páginas dinâmicas](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portifolio.png)
+![](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portifolio.png)
 
-# Alura MIDI
+# Portifolio
 
-O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, por enquanto de uma bateria, ao usuário clicar ou pressionar com teclado em seus botões.
+O Portifolio é de um dos cursos feitos dentro da plataforma da Alura onde aprendi muito sobre responsividade.
 
-<img src="https://user-images.githubusercontent.com/3089882/136043109-1fc85faa-8cfb-4056-a144-98f0f75c2565.png" alt="Imagem do Alura MIDI" width="50%">
+<img src="https://raw.githubusercontent.com/Rox351/Portifolio/main/SobreMim.png" alt="Imagem do Alura MIDI" width="50%">
 
 
 ## 🔨 Funcionalidades do projeto
