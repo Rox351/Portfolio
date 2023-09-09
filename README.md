@@ -1,6 +1,6 @@
 # Portifolio
 Meu Portifolio, Responsivo. Clique no link abaixo e veja como ficou.
-![JavaScript para web: crie páginas dinâmicas](https://user-images.githubusercontent.com/3089882/136042927-247c4863-2c87-44d2-a6f9-116e2d4087b1.png)
+![JavaScript para web: crie páginas dinâmicas](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portifolio.png)
 
 # Alura MIDI
 
