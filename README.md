@@ -1,6 +1,6 @@
 # Portfolio
 Meu Portfolio, Responsivo. Clique no link abaixo e veja como ficou.
-![](https://raw.githubusercontent.com/Rox351/Portfolio/main/Portfolio.png)
+![](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portfolio.png)
 
 # Portfolio
 
