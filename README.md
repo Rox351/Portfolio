@@ -1,17 +1,17 @@
-# Portifolio
-Meu Portifolio, Responsivo. Clique no link abaixo e veja como ficou.
-![](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portifolio.png)
+# Portfolio
+Meu Portfolio, Responsivo. Clique no link abaixo e veja como ficou.
+![](https://raw.githubusercontent.com/Rox351/Portfolio/main/Portfolio.png)
 
-# Portifolio
+# Portfolio
 
-O Portifolio é de um dos cursos feitos dentro da plataforma da Alura onde aprendi muito sobre responsividade.
+O Portfolio é de um dos cursos feitos dentro da plataforma da Alura onde aprendi muito sobre responsividade.
 
-<img src="https://raw.githubusercontent.com/Rox351/Portifolio/main/SobreMim.png" alt="Imagem do Alura MIDI" width="50%">
+<img src="https://raw.githubusercontent.com/Rox351/Portfolio/main/SobreMim.png" alt="Imagem do Alura MIDI" width="50%">
 
 
 ## 🔨 Funcionalidades do projeto
 
-O Portifolio é um projeto feito para mostrar os conhecimentos de desenvolvimento adquiridos ao longo dos cursos feitos na alura.
+O Portfolio é um projeto feito para mostrar os conhecimentos de desenvolvimento adquiridos ao longo dos cursos feitos na alura.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -21,7 +21,7 @@ O Portifolio é um projeto feito para mostrar os conhecimentos de desenvolviment
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://rox351.github.io/Portifolio/).
+[Veja o projeto final do curso em funcionamento](https://rox351.github.io/Portfolio/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
